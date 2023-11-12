@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    text-align: left;
+}
+
+table,  
+td {
+    border: 1px solid yellow;
+}
+
+th {
+    height: 40px;
+    background-color: gray;
+}
+
+
+
+
